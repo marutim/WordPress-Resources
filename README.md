@@ -7,3 +7,6 @@ This contains the list of WordPress Resources that I have found useful or I refe
   
 - How to merge A Single Site Into a WordPress Multisite Network?
   https://pressjitsu.com/blog/wordpress-single-site-multisite-migration/
+  
+- A complete guide to WordPress theme customizer
+  https://premium.wpmudev.org/blog/wordpress-theme-customizer-guide/
