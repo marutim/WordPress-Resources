@@ -10,3 +10,6 @@ This contains the list of WordPress Resources that I have found useful or I refe
   
 - A complete guide to WordPress theme customizer
   https://premium.wpmudev.org/blog/wordpress-theme-customizer-guide/
+
+- Keeping your WordPress options table in check
+  https://10up.com/blog/2017/wp-options-table/
